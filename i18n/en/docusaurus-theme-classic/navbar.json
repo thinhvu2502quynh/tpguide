@@ -1,0 +1,10 @@
+{
+  "logo.alt": {
+    "message": "TPGUIDE",
+    "description": "Navbar logo alt text"
+  },
+  "item.label.Trang chủ": {
+    "message": "Home",
+    "description": "Navbar home link"
+  }
+}

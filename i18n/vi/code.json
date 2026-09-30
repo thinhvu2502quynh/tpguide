@@ -1,0 +1,14 @@
+{
+  "theme.SearchBar.label": {
+    "message": "Tìm tài liệu...",
+    "description": "The ARIA label and placeholder for search button"
+  },
+  "theme.docs.paginator.previous": {
+    "message": "Trước",
+    "description": "The label used to navigate to the previous doc"
+  },
+  "theme.docs.paginator.next": {
+    "message": "Sau",
+    "description": "The label used to navigate to the next doc"
+  }
+}
